@@ -4,5 +4,7 @@ This tool automates the backup of local files and directories to Google Drive. T
 
 ## Features
 - User-friendly GUI: Developed using Tkinter, allowing users to choose paths for backup easily.
+
 - Google Drive Integration: Uses Google Drive API for secure and efficient backups.
+
 - Smart Overwrite: Automatically detects and replaces older versions of files with newer ones.
